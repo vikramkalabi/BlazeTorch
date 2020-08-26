@@ -3,6 +3,7 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
+    container: vikramkalabi/pytorch
     steps:
     - uses: actions/checkout@v1
     - uses: actions/setup-python@v1
