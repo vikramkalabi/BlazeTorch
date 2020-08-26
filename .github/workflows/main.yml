@@ -12,6 +12,7 @@ jobs:
         architecture: 'x64'
     - name: Install the library
       run: |
+        sudo chmod 0777 .
         pip install nbdev jupyter
         pip install -e .
     - name: Read all notebooks
