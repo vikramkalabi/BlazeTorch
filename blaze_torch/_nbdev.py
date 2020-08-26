@@ -8,8 +8,8 @@ index = {"BlazeBlock": "00_layers.ipynb",
 
 modules = ["layers.py"]
 
-doc_url = "https://vikramkalabi.github.io/blaze/"
+doc_url = "https://vikramkalabi.github.io/blaze_torch/"
 
-git_url = "https://github.com/vikramkalabi/blaze/tree/master/"
+git_url = "https://github.com/vikramkalabi/blaze_torch/tree/master/"
 
 def custom_doc_links(name): return None
