@@ -13,6 +13,6 @@ entries:
       title: '`layers`'
       url: layers.html
     output: web
-    title: blaze
+    title: blaze_torch
   output: web
   title: Sidebar
